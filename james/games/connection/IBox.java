@@ -47,6 +47,7 @@ public class IBox extends CBox {
 		} catch (ClassCastException e) {
 			System.exit(0);
 		}
+		System.exit(0);
 		//exit
 	}
 	public void win() {
